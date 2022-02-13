@@ -48,7 +48,7 @@ Now to the more technical aspects. These are not steps so much as things to keep
 
 ## Asking technical questions:
 
-Take your time, and describe as much of the context as you can manage. You certainly don’t have to assume zero knowledge, but it is really important to think about how you can make it as clear as possible to someone who might not have all the context but may still be able to help. Taking some time to think about how best to ask the question will help you to get the best sort of responses. It’s much more key than you might think, and small efforts to be thoughtful here have big flow-on effects.
+Take your time and describe as much of the context as you can manage. You certainly don’t have to assume zero knowledge, but it is really important to think about how you can make it as clear as possible to someone who might not have all the context but may still be able to help. Taking some time to think about how best to ask the question will help you to get the best sort of responses. It’s much more important than you might think, and small efforts to be thoughtful here have big flow-on effects.
 
 
 ## Code style:
