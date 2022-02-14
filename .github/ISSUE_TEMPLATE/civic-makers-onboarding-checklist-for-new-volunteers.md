@@ -20,7 +20,7 @@ Please complete the checklist below to help you get started:
 - [ ]  Join our [Trello board](https://trello.com/invite/b/ZXaIkclp/6339eeec28570b4e20156fe6f6842b9d/civic-makers-2021-l-use-this-one).
   - Please read [this doc](https://blue-father-da8.notion.site/How-we-use-Trello-a040d9930e8944948b5eff65065941c5) to learn about how the Trello board is organised.
   - Tip: See the 'How to use this column' Trello card at the top of each column for a quick reminder of what each column means.
-- [ ]  Attend our weekly Wednesday catchups at 6pm to meet the team! (The meeting link will be announced on the day in [#civic-makers-climatechange](https://codeforaustralia.slack.com/archives/C01CXCQPF8V)). Introduce yourself so we can welcome you to the team! :tada:
+- [ ]  Attend our weekly catchups to meet the team! Refer to [this Notion doc](https://www.notion.so/Current-project-info-1f6f7e7f36e14a0b8d7d0923de75d14d) for more details on the date. (The meeting link will be announced on the day in [#civic-makers-climatechange](https://codeforaustralia.slack.com/archives/C01CXCQPF8V)). Introduce yourself so we can welcome you to the team! :tada:
 - [ ]  When you're done with all the tasks in this checklist, close this issue, and let us know on [#civic-makers-climatechange-dev](https://codeforaustralia.slack.com/archives/C01DALXS62K) so we can celebrate this important milestone you've reached! 🎉
   - You are now ready to pick a task from the Trello board to work on (Dev tasks have a blue label on it) 🙇. Make sure to assign yourself to the card!
 
