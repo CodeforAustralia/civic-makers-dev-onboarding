@@ -33,17 +33,17 @@ Please peruse this whole document before carrying out any steps. Will be good to
 
 ## Steps to follow to get started (after reading this document)
 
-    1. The first thing is to read through all of the Notion onboarding documents (thanks Sean and Qing!) to get a good sense of the lay of the land. This will give you a sense of where the devs fit into everything, and a sense of the broader picture. Take your time with this, and ask any questions as you need. The community is here to help. 
-    2. The next thing to do will be to raise an issue on the Civic Makers Onboarding project on GitHub, taking note of the onboarding task for devs. This helps get you familiar with the dev side of the project, and helps you to cruise through the various things that you will need to be aware of. Like complicated system, you will only get to know all the moving parts properly as you get familiar with them, but being aware of where things are and how to find things is a really important step. This step needs to be completed before you can get started with dev work.
-    3. Read the README attached to the project you want to work on. Please ask any questions as needed. 
-    4. See if you can book a time to talk to one of the leads (see the onboarding docs for the current leads) about all the things that you have learned so far, ask any questions, and to discuss how to contribute from here. Obviously this one is not as much under your control, but hopefully if the leads can’t find the time then they can point you in the right direction. It’s a good chance to somewhat organically see where you and your skills will fit into the system. It’s also just a good chance to talk to us, learn about each other, and start building the relationships.
-    5. See if you can get it running locally. This is then the start of the technical aspect, so please take note of the guidelines below. 
+1. The first thing is to read through all of the Notion onboarding documents (thanks Sean and Qing!) to get a good sense of the lay of the land. This will give you a sense of where the devs fit into everything, and a sense of the broader picture. Take your time with this, and ask any questions as you need. The community is here to help. 
+2. The next thing to do will be to raise an issue on the Civic Makers Onboarding project on GitHub, taking note of the onboarding task for devs. This helps get you familiar with the dev side of the project, and helps you to cruise through the various things that you will need to be aware of. Like complicated system, you will only get to know all the moving parts properly as you get familiar with them, but being aware of where things are and how to find things is a really important step. This step needs to be completed before you can get started with dev work.
+3. Read the README attached to the project you want to work on. Please ask any questions as needed. 
+4. See if you can book a time to talk to one of the leads (see the onboarding docs for the current leads) about all the things that you have learned so far, ask any questions, and to discuss how to contribute from here. Obviously this one is not as much under your control, but hopefully if the leads can’t find the time then they can point you in the right direction. It’s a good chance to somewhat organically see where you and your skills will fit into the system. It’s also just a good chance to talk to us, learn about each other, and start building the relationships.
+5. See if you can get it running locally. This is then the start of the technical aspect, so please take note of the guidelines below. 
 
 
 
 ## Guidelines for technical work
 
-Now to the more technical aspects. These are not steps so much as things to keep in mind as you contribute. They are my ideas, and not set in stone. More like guidelines. If you disagree with anything here I’m happy to discuss it though. These aspects are something that everyone should be able to contribute to and have a say in. Many of the points here are a matter of balance, and more something to think about as you progress. 
+Now to the more technical aspects. These are not steps so much as things to keep in mind as you contribute. They are my ideas, and not set in stone. More like guidelines - though if you disagree with anything here, we are happy to discuss it. These aspects are something that everyone should be able to contribute to and have a say in. Many of the points here are a matter of balance, and more something to think about as you progress. 
 
 
 ## Asking technical questions:
@@ -53,7 +53,10 @@ Take your time and describe as much of the context as you can manage. You certai
 
 ## Code style:
 
-Keep it simple. I sound really boring saying this, but we just want nice simple code that works and that people can understand. Obviously this is within reason, and is also somewhat subjective. But the first thing to consider when writing the code is how easily it will be understood, and how will it make things easier to be build upon. Remember that this code will need to be read by other developers of different skill levels, so just writing code that works is really the baseline.  
+Keep it simple. It can sound really boring saying this, but we just want nice simple code that works and that people can understand. Obviously this is within reason, and is also somewhat subjective. But the first thing to consider when writing the code is how easily it will be understood, and how will it make things easier to be build upon. Remember that this code will need to be read by other developers of different skill levels, so just writing code that works is really the baseline.  
+
+An example would be that people are likely to be more irritated than impressed if you try to crush everything into one line. For example:
+
 
 ## Tackling a big codebase
 
@@ -62,9 +65,9 @@ Depending on the project, the codebase you are stepping into could be very large
 
 ## Trello to PR:
 
-    - Take a Trello task: assign it to yourself, add any notes as needed. 
-    - You can keep this simple, but if you want to communicate please do - we welcome this, and it makes other people’s lives easier. You can mention anything about this task that you might want to here. Please read the How We Use Trello reference here: https://www.notion.so/Civic-Makers-ba31d86ca9624c01b9569906c5d692f9?p=a040d9930e8944948b5eff65065941c5
-    - You can reference this Trello task in your PR (see the next section).
+- Take a Trello task: assign it to yourself, add any notes as needed. 
+- You can keep this simple, but if you want to communicate please do - we welcome this, and it makes other people’s lives easier. You can mention anything about this task that you might want to here. Please read the How We Use Trello reference here: https://www.notion.so/Civic-Makers-ba31d86ca9624c01b9569906c5d692f9?p=a040d9930e8944948b5eff65065941c5
+- You can reference this Trello task in your PR (see the next section).
 
 
 ## Making a PR: 
@@ -73,22 +76,22 @@ If the project is now up and running for you locally, you might want to make a s
 
 The system:
 
-    1. You should fork the project from the original repo.
-    2. Get it running locally.
-    3. For new work create a new branch with an appropriate name.
-    4. Make changes, and commit.
-    5. Push the changes to your repo.
-    6. Make a PR from your repo to the original.
-    7. Respond to correspondence about the PR (if needed).
-    8. Make changes (if needed).
-    9. And on you go.. 
+1. You should fork the project from the original repo.
+2. Get it running locally.
+3. For new work create a new branch with an appropriate name.
+4. Make changes, and commit.
+5. Push the changes to your repo.
+6. Make a PR from your repo to the original.
+7. Respond to correspondence about the PR (if needed).
+8. Make changes (if needed).
+9. And on you go.. 
 
 A few other pointers:
 
-    - Meaningful PR messages. These should be roughly aligned with the significance of the PR. For anything complex, be prepared to thoroughly explain in the PR what the aim of the PR is, and how you achieve that aim. Again, this is within reason, but for particularly thorny parts of the code, please explain anything that might need it. 
-    - Add any tags to the PR that are needed (WIP, Spike, etc)
-    - If the PR is from a Trello task, please add a link to that task.
-    - If you make some git errors, don’t hesitate to have a chat with someone from the team.
+- Meaningful PR messages. These should be roughly aligned with the significance of the PR. For anything complex, be prepared to thoroughly explain in the PR what the aim of the PR is, and how you achieve that aim. Again, this is within reason, but for particularly thorny parts of the code, please explain anything that might need it. 
+- Add any tags to the PR that are needed (WIP, Spike, etc)
+- If the PR is from a Trello task, please add a link to that task.
+- If you make some git errors, don’t hesitate to have a chat with someone from the team.
 
 
 ## Pair programming:
@@ -99,12 +102,19 @@ In other instances you might feel quite junior, and can ask another one or two j
 
 We should also consider mob programming sometimes. This can be very good for spikes and some of the work starting out and getting a few opinions.
 
+Resources:
+- https://martinfowler.com/articles/on-pair-programming.html
+- [Agile Alliance - pairing](https://www.agilealliance.org/glossary/pairing/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'pair*20programming))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
+- https://www.codementor.io/pair-programming
+- https://searchsoftwarequality.techtarget.com/definition/mob-programming
+- https://www.pluralsight.com/blog/software-development/mob-programming-101
+- [Agile Alliance - mob programming](https://www.agilealliance.org/glossary/mob-programming/#q=~(infinite~true~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'mob*20programming))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 
 ## How to help more generally:
 
-    - Even if junior, you can read PRs. This is also work. Even if it’s just to say good job, or that you don’t understand something and could it be made clearer. Reading and responding to PRs is a skill, and one that I’m still learning. Dive in, or if you are worried about taking steps, ask someone to give you a hand. 
-    - We love love love people who contribute to the README. If you document your struggles as you go through, these can be excellent elements to add to the README or form the basis for a FAQ. This helps others in a big way.
-    - Get involved on Slack where you can.
+- Even if junior, you can read PRs. This is also work. Even if it’s just to say good job, or that you don’t understand something and could it be made clearer. Reading and responding to PRs is a skill, and one that I’m still learning. Dive in, or if you are worried about taking steps, ask someone to give you a hand. 
+- We love love love people who contribute to the README. If you document your struggles as you go through, these can be excellent elements to add to the README or form the basis for a FAQ. This helps others in a big way.
+- Get involved on Slack where you can.
 
 
 ## The cadence of the project:
@@ -121,7 +131,7 @@ Part of the problem that we are solving in this document is tempering expectatio
 
 A few more thoughts. This might all be simple to you, and you might wonder about all the rules. Or this might be a lot to take in and you might find it overwhelming.
 
-On the first point, I can understand. What you have to consider here is that we are trying to get things done, but also trying to be inclusive. And that all of this is happening with volunteers who also have busy lives, and may have to come and go from the project over time. We are trying to find the balance between being collaborative and inclusive, and getting the job done.
+On the first point, that's understandable. What you have to consider here is that we are trying to get things done, but also trying to be inclusive. And that all of this is happening with volunteers who also have busy lives, and may have to come and go from the project over time. We are trying to find the balance between being collaborative and inclusive, and getting the job done.
 
 If it’s overwhelming, know that this gets easier. As you use Trello and start making PRs and so on, the confusion will start to drop away. Many of the elements in this document make little sense on the page, and slowly get illuminated over time. You will make mistakes with code, with the system, and in all manner of ways, and that’s all totally fine. Everyone involved is keen to help.
 
